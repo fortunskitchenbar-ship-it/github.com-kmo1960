@@ -1,0 +1,24 @@
+{
+  "rss_feeds": [
+    "https://news.ycombinator.com/rss",
+    "https://feeds.github.com/releases.atom",
+    "https://www.techradar.com/rss",
+    "https://feeds.arstechnica.com/arstechnica/index"
+  ],
+  "output_dir": "agenda",
+  "tts_enabled": true,
+  "include_calendar": false,
+  "include_emails": true,
+  "calendar_days": 1,
+  "rss_timeout": 15,
+  "tts_voice": "default",
+  "timezone": "UTC",
+  "key_people": [
+    "Kevin",
+    "Cristina",
+    "Otter",
+    "Fortunfoods",
+    "Edd",
+    "Attio"
+  ]
+}
